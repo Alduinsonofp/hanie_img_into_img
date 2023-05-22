@@ -1,0 +1,17 @@
+body{
+    background-image: url("../clouds_depth_darkness_861735_3840x2160.jpg");
+    background-repeat: no-repeat;
+    background-position: right 50% top 10%;
+    background-size: cover;
+}
+   
+
+.mg2{
+    background-image: url("../eclipse_moon_sun_129559_3840x2160.jpg");
+    background-repeat: no-repeat;
+    background-position: right 50% top 50%;
+    padding: 216px;
+    margin: 63px;
+    background-size: 40%;
+    border-radius: 0%;
+}
